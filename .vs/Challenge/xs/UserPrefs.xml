@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{27335809-3FA5-A492-B992-B7B3AEB1F702}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShowSpeed.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControls.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/DestroyOutOfBounds.cs" />
+      <File FileName="Assets/Scripts/DetectCollision.cs" Line="58" Column="28" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" />
+      <File FileName="Assets/Scripts/CreateLayer.cs" />
+      <File FileName="Assets/Scripts/RandomSpawner.cs" />
+      <File FileName="Assets/Scripts/HoverAnimation.cs" />
+      <File FileName="Assets/Scripts/ShowProgress.cs" Line="8" Column="22" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/ShowSpeed.cs" Line="14" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challenge" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ShowSpeed.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5465c3f9-1661-4bb7-98d2-7dd212cbc4d0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
